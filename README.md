@@ -1,4 +1,4 @@
-# Vizaga BDBMS
+# Vizada BDBMS
 
 > Arav Budhiraja | 15th August 2022
 
